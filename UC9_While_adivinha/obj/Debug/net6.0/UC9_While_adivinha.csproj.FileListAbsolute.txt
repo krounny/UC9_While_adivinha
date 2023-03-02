@@ -1,0 +1,15 @@
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\bin\Debug\net6.0\UC9_While_adivinha.exe
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\bin\Debug\net6.0\UC9_While_adivinha.deps.json
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\bin\Debug\net6.0\UC9_While_adivinha.runtimeconfig.json
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\bin\Debug\net6.0\UC9_While_adivinha.dll
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\bin\Debug\net6.0\ref\UC9_While_adivinha.dll
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\bin\Debug\net6.0\UC9_While_adivinha.pdb
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\obj\Debug\net6.0\UC9_While_adivinha.csproj.AssemblyReference.cache
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\obj\Debug\net6.0\UC9_While_adivinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\obj\Debug\net6.0\UC9_While_adivinha.AssemblyInfoInputs.cache
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\obj\Debug\net6.0\UC9_While_adivinha.AssemblyInfo.cs
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\obj\Debug\net6.0\UC9_While_adivinha.csproj.CoreCompileInputs.cache
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\obj\Debug\net6.0\UC9_While_adivinha.dll
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\obj\Debug\net6.0\ref\UC9_While_adivinha.dll
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\obj\Debug\net6.0\UC9_While_adivinha.pdb
+C:\Users\luiz.ecrivera\source\repos\UC9_While_adivinha\UC9_While_adivinha\obj\Debug\net6.0\UC9_While_adivinha.genruntimeconfig.cache
